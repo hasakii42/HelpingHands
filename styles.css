@@ -1,0 +1,92 @@
+
+body{
+   background-color:#659DBD;  
+    color:Black;
+}
+header{
+   background-color:#2F2FA2;
+    overflow: hidden;
+}
+.logo{
+  float:left;
+  
+}
+
+li{ background-color:red;
+    list-style: square;
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: white;
+    float:right;
+    color:darkgray;
+}
+
+    
+    
+}
+active{
+    padding:1px 40px 0px 0px;
+    
+}
+
+h1{
+    text-align:center;
+    font-size:60px;
+}
+h2{
+    font-size:60px;
+    text-align:center;
+}
+
+figcaption{
+    color: darkorange;
+    text-decoration: none;
+    font-size:30px;
+}
+.grid-container{display:grid; background-color:white;
+ grid-template-columns:repeat(4, 1fr); grid-gap: 10px;
+  grid-auto-rows: 100px;
+ 
+align:center; height:40;}
+.grid-item1{font-size:20; height:40; font-color:black;
+ text-decoration:none;
+background-color:#F64C72;  height:40; border:solid white}
+.grid-item2{ font-size:20;
+text-decoration:none;
+background-color:aqua;   height:40; border:solid white}
+
+.grid-item3{font-size:20;   text-decoration:none;
+background-color:aqua; 
+height:40; border:solid white}
+
+.grid-item4{font-size:20;  text-decoration:none;
+background-color:aqua;   height:40;border:solid white}
+
+.grid-item2:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.grid-item1:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+.grid-item4:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+.grid-item3:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+.do{font-size:30px; color:white;}
+.do1{font-size:30px; color:white;}
+.do3{font-size:30px; color:white;}
+.do4{font-size:30px; color:white;}
+.do5{font-size:30px; color:white;}
+.do6{font-size:30px; color:white;}
+.do7{font-size:30px; color:white;}
